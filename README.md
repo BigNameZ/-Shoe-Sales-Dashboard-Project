@@ -122,24 +122,6 @@ Analysis: Explored key metrics to extract actionable insights.
 
 Reporting: Exported visuals to PDF for distribution.
 
-📜 Dashboard Preview ![Image](https://github.com/user-attachments/assets/d4e7621a-600d-4874-be22-eaf243cc52fa)
-
-📊 1. Sales and Collections Overview
-
-![Image](https://github.com/user-attachments/assets/26e63217-090e-4747-aa6a-511443402421)
-
-🌍 2. Sales by Region
-
-![Image](https://github.com/user-attachments/assets/fd4198b5-901f-436a-982c-0297ee0e069f)
-
-🏢 3. Product Category Sales
-
-![Image](https://github.com/user-attachments/assets/1ad187cc-d63d-4993-9bf4-b1bbbb7530b0)
-
-📊 4. Monthly Sales Trends
-
-![Image](https://github.com/user-attachments/assets/9b3f3b0d-440a-46e7-88e1-7780d620bf63)
-
 🛠️ Tools Used
 
 Data Visualization: Power BI
